@@ -1,18 +1,18 @@
-💫 Hi 👋, I'm Guddu Kumar
+Hi, I'm Guddu Kumar
 
 A passionate Frontend Developer || MERN STACK || Java(DSA) 
 
-Email Me 👉 ✉️ gkgudd860@gmail.com 😊😊
+Email Me:- gkgudd860@gmail.com
 
-🔭 I’m currently working on: Doctor appointment project.
+I’m currently working on: Budget Tracker project.
 
-🌱 I’m currently learning: Backend , Node js. , Express js. 
+I’m currently learning: Backend , Node js. , Express js. 
 
-💬 Ask me about: react, GSAP, SkipperUI.
+Ask me about: react, GSAP, SkipperUI.
 
-📫 How to reach me: gkgudd860@gmail.com
+How to reach me: gkgudd860@gmail.com
 
-⚡ Fun fact: I Love code and Tech Love Me
+Fun fact: I Love code and Tech Love Me
 
 
 ## 🌐 Socials:
