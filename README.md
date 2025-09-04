@@ -8,7 +8,7 @@ I’m currently working on: Budget Tracker project.
 
 I’m currently learning: Backend , Node js. , Express js. 
 
-Ask me about: react, GSAP, SkipperUI.
+Ask me about: react, GSAP(GreenSock Animation Platform), SkipperUI.
 
 How to reach me: gkgudd860@gmail.com
 
